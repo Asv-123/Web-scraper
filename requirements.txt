@@ -1,5 +1,4 @@
 pandas
-csv
 requests
 beautifulsoup4
 streamlit
